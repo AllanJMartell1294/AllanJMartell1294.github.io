@@ -1,5 +1,5 @@
 # AllanJMartell1294.github.io
-Prueba
+
 <html>
 
 <body lang=ES-MX style='tab-interval:35.4pt'>
@@ -7,8 +7,10 @@ Prueba
 <div class=WordSection1>
 <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width=700
  style='width:525.0pt;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+	 
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
+	  
   <p class=MsoNormal><span style='font-size:13.5pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:"Times New Roman";color:black'><!--[if gte vml 1]><v:shapetype
    id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
@@ -36,14 +38,10 @@ Prueba
    <v:imagedata src="Firma_Erick_2022_archivos/image001.jpg" o:href="../../../../../../Firma/HTML/Firma.jpg"/>
   </v:shape><![endif]--><![if !vml]><img width=700 height=130
   src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma v:shapes="_x0000_i1043"><![endif]><o:p></o:p></span></p>
-  </td>
+	</td>
  </tr>
-</table>
-<p class=MsoNormal><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
-"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
-display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
-<table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width=700
- style='width:525.0pt;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+
+
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
 <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span style='font-size:13.5pt;font-family:"Times New Roman",serif;
@@ -57,6 +55,7 @@ display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
   </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1"
   border=0 width=500 height=40 alt=Logos v:shapes="_x0000_i1044"></span><![endif]></span></a><o:p></o:p></span></p>
   </td>
+	 
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span style='font-size:13.5pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:"Times New Roman";color:black'><a
@@ -64,12 +63,14 @@ display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
   text-decoration:none;text-underline:none'><!--[if gte vml 1]><v:shape id="_x0000_i1045"
    type="#_x0000_t75" alt="Logos" href="https://www.facebook.com/ExcelFormMX"
    style='width:26.4pt;height:30pt' o:button="t">
+
 	<!--Aquí se carga la imagen para ingresar a FACEBOOK-->
    <v href="https://www.dropbox.com/s/mw0kjvg9516hhmh/image005.png?raw=1">
   </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img
   border=0 width=35 height=40 src="https://www.dropbox.com/s/mw0kjvg9516hhmh/image005.png?raw=1"
   alt=Logos v:shapes="_x0000_i1045"></span><![endif]></span></a><o:p></o:p></span></p>
   </td>
+	 
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span style='font-size:13.5pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:"Times New Roman";color:black'><a
@@ -126,14 +127,9 @@ display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
   alt=Logos v:shapes="_x0000_i1049"></span><![endif]></span></a><o:p></o:p></span></p>
   </td>
  </tr>
-</table>
-<p class=MsoNormal><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
-"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
-display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
-<table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width=700
- style='width:525.0pt;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
+
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span style='font-size:13.5pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:"Times New Roman";color:black'><!--[if gte vml 1]><v:shape
    id="_x0000_i1050" type="#_x0000_t75" alt="Linea" style='width:525pt;
@@ -143,11 +139,9 @@ display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
   src="https://www.dropbox.com/s/fqkjziuy0pzva5f/image015.jpg?raw=1" alt=Linea v:shapes="_x0000_i1050"><![endif]><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:1'>
-  <td style='padding:.75pt .75pt .75pt .75pt'></td>
- </tr>
+
  <tr style='mso-yfti-irow:2'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span style='font-size:13.5pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:"Times New Roman";color:black'><!--[if gte vml 1]><v:shape
    id="_x0000_i1051" type="#_x0000_t75" alt="Linea" style='width:525pt;
@@ -157,8 +151,9 @@ display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
   src="https://www.dropbox.com/s/72ak8o6khpsu4xl/image017.jpg?raw=1" alt=Linea v:shapes="_x0000_i1051"><![endif]><o:p></o:p></span></p>
   </td>
  </tr>
+	
  <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:30.0pt'>
-  <td style='padding:.75pt .75pt .75pt .75pt;height:30.0pt'>
+  <td colspan="6" style='padding:.75pt .75pt .75pt .75pt;height:30.0pt'>
   <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   mso-outline-level:6'><b><span style='font-size:7.5pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:"Times New Roman";color:silver'>Este correo
