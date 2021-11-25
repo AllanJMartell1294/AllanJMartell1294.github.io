@@ -24,8 +24,8 @@
    height:30pt' o:button="t">
 	<!--Aquí se carga la imagen para ingresar a EXCELFORM.COM-->
    <v href="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1">
-  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1"
-  border=0 width=500 height=40 alt=Logos v:shapes="_x0000_i1044"></span><![endif]></span></a><o:p></o:p></span></p>
+  </v:shape><![endif]--><span style='mso-ignore:vglayout'><img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1"
+  border=0 width=500 height=40 alt=Logos v:shapes="_x0000_i1044"></span></span></a><o:p></o:p></span></p>
   </td>
 	 
   <td style='padding:.75pt .75pt .75pt .75pt'>
@@ -38,9 +38,9 @@
 
 	<!--Aquí se carga la imagen para ingresar a FACEBOOK-->
    <v href="https://www.dropbox.com/s/mw0kjvg9516hhmh/image005.png?raw=1">
-  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img
+  </v:shape><![endif]--><span style='mso-ignore:vglayout'><img
   border=0 width=35 height=40 src="https://www.dropbox.com/s/mw0kjvg9516hhmh/image005.png?raw=1"
-  alt=Logos v:shapes="_x0000_i1045"></span><![endif]></span></a><o:p></o:p></span></p>
+  alt=Logos v:shapes="_x0000_i1045"></span></span></a><o:p></o:p></span></p>
   </td>
 	 
   <td style='padding:.75pt .75pt .75pt .75pt'>
@@ -52,9 +52,9 @@
    style='width:26.4pt;height:30pt' o:button="t">
 	<!--Aquí se carga la imagen para ingresar a TWITTER-->
    <v href="https://www.dropbox.com/s/njl9jmcujlbbrtx/image007.png?raw=1">
-  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img
+  </v:shape><![endif]--><span style='mso-ignore:vglayout'><img
   border=0 width=35 height=40 src="https://www.dropbox.com/s/njl9jmcujlbbrtx/image007.png?raw=1"
-  alt=Logos v:shapes="_x0000_i1046"></span><![endif]></span></a><o:p></o:p></span></p>
+  alt=Logos v:shapes="_x0000_i1046"></span></span></a><o:p></o:p></span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span style='font-size:13.5pt;font-family:"Times New Roman",serif;
@@ -66,9 +66,9 @@
    o:button="t">
 	<!--Aquí se carga la imagen para ingresar a INSTAGRAM-->
    <v href="https://www.dropbox.com/s/q4rw60wkzfxadf8/image009.png?raw=1">
-  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img
+  </v:shape><![endif]--><span style='mso-ignore:vglayout'><img
   border=0 width=35 height=40 src="https://www.dropbox.com/s/q4rw60wkzfxadf8/image009.png?raw=1"
-  alt=Logos v:shapes="_x0000_i1047"></span><![endif]></span></a><o:p></o:p></span></p>
+  alt=Logos v:shapes="_x0000_i1047"></span></span></a><o:p></o:p></span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span style='font-size:13.5pt;font-family:"Times New Roman",serif;
@@ -80,9 +80,9 @@
    height:30pt' o:button="t">
 	<!--Aquí se carga la imagen para ingresar a LINKEDIN-->
    <v href="https://www.dropbox.com/s/cf3llc5h9pnm3mp/image011.png?raw=1">
-  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img
+  </v:shape><![endif]--><span style='mso-ignore:vglayout'><img
   border=0 width=35 height=40 src="https://www.dropbox.com/s/cf3llc5h9pnm3mp/image011.png?raw=1"
-  alt=Logos v:shapes="_x0000_i1048"></span><![endif]></span></a><o:p></o:p></span></p>
+  alt=Logos v:shapes="_x0000_i1048"></span></span></a><o:p></o:p></span></p>
   </td>
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span style='font-size:13.5pt;font-family:"Times New Roman",serif;
@@ -94,9 +94,9 @@
    height:30pt' o:button="t">
 	<!--Aquí se carga la imagen para ingresar a YOUTUBE-->
    <v href="https://www.dropbox.com/s/73ct38vy881l73f/image013.png?raw=1">
-  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img
+  </v:shape><![endif]--><span style='mso-ignore:vglayout'><img
   border=0 width=35 height=40 src="https://www.dropbox.com/s/73ct38vy881l73f/image013.png?raw=1"
-  alt=Logos v:shapes="_x0000_i1049"></span><![endif]></span></a><o:p></o:p></span></p>
+  alt=Logos v:shapes="_x0000_i1049"></span></span></a><o:p></o:p></span></p>
   </td>
  </tr>
 
@@ -107,8 +107,8 @@
    id="_x0000_i1050" type="#_x0000_t75" alt="Linea" style='width:525pt;
    height:22.2pt'>
    <v href="https://www.dropbox.com/s/fqkjziuy0pzva5f/image015.jpg?raw=1">
-  </v:shape><![endif]--><![if !vml]><img border=0 width=700 height=30
-  src="https://www.dropbox.com/s/fqkjziuy0pzva5f/image015.jpg?raw=1" alt=Linea v:shapes="_x0000_i1050"><![endif]><o:p></o:p></span></p>
+  </v:shape><![endif]--><img border=0 width=700 height=30
+  src="https://www.dropbox.com/s/fqkjziuy0pzva5f/image015.jpg?raw=1" alt=Linea v:shapes="_x0000_i1050"><o:p></o:p></span></p>
   </td>
  </tr>
 
