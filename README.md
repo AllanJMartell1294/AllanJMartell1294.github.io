@@ -119,8 +119,8 @@
    id="_x0000_i1051" type="#_x0000_t75" alt="Linea" style='width:525pt;
    height:67.8pt'>
    <v href="https://www.dropbox.com/s/72ak8o6khpsu4xl/image017.jpg?raw=1">
-  </v:shape><![endif]--><![if !vml]><img border=0 width=700 height=90
-  src="https://www.dropbox.com/s/72ak8o6khpsu4xl/image017.jpg?raw=1" alt=Linea v:shapes="_x0000_i1051"><![endif]><o:p></o:p></span></p>
+  </v:shape><![endif]--><img border=0 width=700 height=90
+  src="https://www.dropbox.com/s/72ak8o6khpsu4xl/image017.jpg?raw=1" alt=Linea v:shapes="_x0000_i1051"></span></p>
   </td>
  </tr>
 	
