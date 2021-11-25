@@ -1,7 +1,5 @@
 # AllanJMartell1294.github.io
 
-<html>
-
 <div class=WordSection1>
 <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width=700 style='width:525.0pt;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
 	 
@@ -9,13 +7,11 @@
   <td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
 	  
   <p class=MsoNormal>
-	  <span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
+	<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
   <v:shape id="_x0000_i1043" type="#_x0000_t75" alt="Firma" style='width:525pt;height:97.2pt'>
    	<!--Aquí se cargan las imágenes del nombre del propietario de la FIRMA-->
    <v:imagedata src="Firma_Erick_2022_archivos/image001.jpg" o:href="../../../../../../Firma/HTML/Firma.jpg"/>
-  <img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma v:shapes="_x0000_i1043"></span></p>
-	</td>
- </tr>
+   <img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma v:shapes="_x0000_i1043">
 
 
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
@@ -146,7 +142,7 @@
   by the applicable legislation. If you are not intended recipient, please
   notify it to the sender and delete immediately. You are hereby notified that
   any review, retransmission, dissemination or other use of this e-mail by
-  persons or entities other than the intended recipient is prohibited.<o:p></o:p></span></b></p>
+  persons or entities other than the intended recipient is prohibited.</span></b></p>
   </td>
  </tr>
 
