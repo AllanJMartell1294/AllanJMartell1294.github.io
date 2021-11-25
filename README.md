@@ -9,12 +9,12 @@
   <td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
 	  
   <p class=MsoNormal>
-	  <span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'><!--[if gte vml 1]>
+	  <span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
   <v:shape id="_x0000_i1043" type="#_x0000_t75" alt="Firma" style='width:525pt;height:97.2pt'>
    	<!--Aquí se cargan las imágenes del nombre del propietario de la FIRMA-->
    <v:imagedata src="Firma_Erick_2022_archivos/image001.jpg" o:href="../../../../../../Firma/HTML/Firma.jpg"/>
-  </v:shape><img width=700 height=130
-  src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma v:shapes="_x0000_i1043"><![endif]></span></p>
+  <img width=700 height=130
+  src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma v:shapes="_x0000_i1043"></span></p>
 	</td>
  </tr>
 
