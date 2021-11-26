@@ -213,14 +213,14 @@
   			<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-outline-level:6'><b>
 				<span style='font-size:7.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:silver'>
 				Este correo
-				  electr�nico y archivos adjuntos es/son para uso exclusivo de la persona o la
-				  entidad a la que expresamente se le ha enviado, y puede contener informaci�n
-				  PRIVILEGIADA, CONFIDENCIAL o RESERVADA, clasificada as� por la legislaci�n
-				  aplicable. Si usted no es el destinatario legitimo del mismo, por favor
-				  rep�rtelo inmediatamente al originador del correo y b�rrelo. Consid�rese
-				  notificado que cualquier revisi�n, retransmisi�n, difusi�n o cualquier otro
+				  electrónico y archivos adjuntos es/son para uso exclusivo de la persona o la
+				  entidad a la que expresamente se le ha enviado, y puede contener información
+				  PRIVILEGIADA, CONFIDENCIAL o RESERVADA, clasificada así por la legislación
+				  aplicable. Si usted no es el destinatario legítimo del mismo, por favor
+				  repórtelo inmediatamente al originador del correo y bórrelo. Considérese
+				  notificado que cualquier revisión, retransmisión, difusión o cualquier otro
 				  uso de este correo, por personas o entidades distintas a las del destinatario
-				  legitimo, queda expresamente prohibido. This e-mail and/or its attachments
+				  legítimo, queda expresamente prohibido. This e-mail and/or its attachments
 				  is/are intended only for the person or entity to which it is addressed and
 				  may contain confidential information and/or privileged material, thus classified
 				  by the applicable legislation. If you are not intended recipient, please
