@@ -5,27 +5,23 @@
 		<tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
 			<td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
 	  			<p class=MsoNormal>
-					<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
-  					<v:shape id="_x0000_i1043" type="#_x0000_t75" alt="Firma" style='width:525pt;height:97.2pt'>
-   							<!--Aquí se cargan las imágenes del nombre del propietario de la FIRMA-->
-   					<v:imagedata src="Firma_Erick_2022_archivos/image001.jpg" o:href="../../../../../../Firma/HTML/Firma.jpg"/>
-   					<img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma v:shapes="_x0000_i1043">
+				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
+				<v:shape id="_x0000_i1043" type="#_x0000_t75" alt="Firma" style='width:525pt;height:97.2pt'>
+						<!--Aquí se cargan las imágenes del nombre del propietario de la FIRMA-->
+				<v:imagedata src="Firma_Erick_2022_archivos/image001.jpg" o:href="../../../../../../Firma/HTML/Firma.jpg"/>
+				<img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma v:shapes="_x0000_i1043">
 
 
  		<tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
 			<td style='padding:.75pt .75pt .75pt .75pt'>
   				<p class=MsoNormal>
-					<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
-					<a href="https://www.excelform.mx/"><span style='color:blue;text-decoration:none;text-underline:none'>
-						<!--[if gte vml 1]>
-					<v:shape id="_x0000_i1044"
-   type="#_x0000_t75" alt="Logos" href="https://www.excelform.mx/" style='width:375pt;
-   height:30pt' o:button="t">
-	<!--Aquí se carga la imagen para ingresar a EXCELFORM.COM-->
-   <v href="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1">
-  </v:shape><![endif]--><span style='mso-ignore:vglayout'><img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1"
-  border=0 width=500 height=40 alt=Logos v:shapes="_x0000_i1044"></span></span></a><o:p></o:p></span></p>
-  </td>
+				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
+					<a href="https://www.excelform.mx/">
+						<span style='color:blue;text-decoration:none;text-underline:none'>
+							<span style='mso-ignore:vglayout'>
+				<img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1" border=0 width=500 height=40 alt=Logos 	v:shapes="_x0000_i1044">
+				</span></span></a><o:p></o:p></span></p>
+  			</td>
 	 
   <td style='padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><span style='font-size:13.5pt;font-family:"Times New Roman",serif;
