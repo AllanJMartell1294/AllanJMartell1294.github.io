@@ -1,6 +1,5 @@
 # AllanJMartell1294.github.io
 
-<div class=WordSection1>
 <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width=700 style='width:525.0pt;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
 	<tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
 		<td style='padding:.75pt .75pt .75pt .75pt'>
@@ -167,10 +166,7 @@
 			</p>
   		</td>
  	</tr>
-			<p class=MsoNormal>
-				<span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-					family:Calibri;display:none;mso-hide:all'>
-				<o:p>&nbsp;</o:p></span>
-			</p>
+	
  	<tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   		<td style='padding:.75pt .75pt .75pt .75pt'>
   			<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
@@ -207,6 +203,7 @@
  	<tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:30.0pt'>
   		<td style='padding:.75pt .75pt .75pt .75pt;height:30.0pt'>
   			<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-outline-level:6'><b>
+				<colspan="6">
 				<span style='font-size:7.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:silver'>
 				Este correo
 				  electrónico y archivos adjuntos es/son para uso exclusivo de la persona o la
@@ -231,4 +228,4 @@
 </table>
 			<p class=MsoNormal><o:p>&nbsp;</o:p></p>
 			<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-</div>
+
