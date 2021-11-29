@@ -1,19 +1,14 @@
 <table>
 	<tr>
 		<td colspan="6">
-	   			<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma>
-				</span>
   		</td>
  	</tr>
  	<tr>
 		<td>
-			<p>
 				<a href="https://www.excelform.mx/">
 				<img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1" width=500 height=40 alt=Logos">
-				</a>
-			</p>
-																      
+				</a>													      
   		</td>
   		<td>
 			<p>												      
