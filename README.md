@@ -1,4 +1,7 @@
-<table FRAME="border" RULES="none">
+<style type="text/css">
+  table {border-collapse: collapse;}
+</style>
+<table>
 	<tr>
 		<td colspan="6">
 				<img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma>
