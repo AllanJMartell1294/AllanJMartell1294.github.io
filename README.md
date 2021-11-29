@@ -18,8 +18,8 @@
 				</span>
 			</p>
   		</td>
-  		<td style='padding:.75pt .75pt .75pt .75pt'>
-  			<p class=MsoNormal>
+  		<td>
+  			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.facebook.com/ExcelFormMX">
 				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/mw0kjvg9516hhmh/image005.png?raw=1" alt=Logos v:shapes="_x0000_i1045">
@@ -27,8 +27,8 @@
 				</span>
 			</p>
   		</td>
-  		<td style='padding:.75pt .75pt .75pt .75pt'>
-  			<p class=MsoNormal>
+  		<td>
+  			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://twitter.com/ExcelForm_GL">
 				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/njl9jmcujlbbrtx/image007.png?raw=1" alt=Logos v:shapes="_x0000_i1046">
@@ -36,8 +36,8 @@
 				</span>
 			</p>
   		</td>
-  		<td style='padding:.75pt .75pt .75pt .75pt'>
-  			<p class=MsoNormal>
+  		<td>
+  			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.instagram.com/excelformmx/">
 				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/q4rw60wkzfxadf8/image009.png?raw=1" alt=Logos v:shapes="_x0000_i1047">
@@ -45,8 +45,8 @@
 				</span>
 			</p>
   		</td>
-  		<td style='padding:.75pt .75pt .75pt .75pt'>
-  			<p class=MsoNormal>
+  		<td>
+  			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.linkedin.com/company/excelform/">
 				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/cf3llc5h9pnm3mp/image011.png?raw=1" alt=Logos v:shapes="_x0000_i1048">
@@ -54,8 +54,8 @@
 				</span>
 			</p>
   		</td>
-  		<td style='padding:.75pt .75pt .75pt .75pt'>
-  			<p class=MsoNormal>
+  		<td>
+  			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.youtube.com/channel/UCDW0yZ_W-Z7VBCEYZwaTsdg">
 				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/73ct38vy881l73f/image013.png?raw=1" alt=Logos v:shapes="_x0000_i1049">
@@ -64,17 +64,17 @@
 			</p>
   		</td>
  	</tr>
- 	<tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  		<td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
-  			<p class=MsoNormal>
+ 	<tr>
+  		<td colspan="6">
+  			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<img border=0 width=700 height=30 src="https://www.dropbox.com/s/fqkjziuy0pzva5f/image015.jpg?raw=1" alt=Linea v:shapes="_x0000_i1050">
 				</span>
 			</p>
   		</td>
  	</tr>
- 	<tr style='mso-yfti-irow:2'>
-  		<td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
+ 	<tr >
+  		<td colspan="6">
   			<p class=MsoNormal>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman";color:black'>
 				<img border=0 width=700 height=90 src="https://www.dropbox.com/s/72ak8o6khpsu4xl/image017.jpg?raw=1" alt=Linea v:shapes="_x0000_i1051">
@@ -82,9 +82,9 @@
 			</p>
   		</td>
  	</tr>
- 	<tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:30.0pt'>
-  		<td colspan="6" style='padding:.75pt .75pt .75pt .75pt;height:30.0pt'>
-  			<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-outline-level:6'><b>
+ 	<tr>
+  		<td colspan="6">
+  			<p style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-outline-level:6'><b>
 				<span style='font-size:7.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:silver'>
 				Este correo
 				  electrónico y archivos adjuntos es/son para uso exclusivo de la persona o la
