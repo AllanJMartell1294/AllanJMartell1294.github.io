@@ -8,11 +8,6 @@
 			</p>
   		</td>
  	</tr>
-			<p class=MsoNormal>
-				<span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-			    		family:Calibri;display:none;mso-hide:all'>
-				<o:p>&nbsp;</o:p>
-				</span>
-			</p>
  	<tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
 		<td style='padding:.75pt .75pt .75pt .75pt'>
   			<p class=MsoNormal>
