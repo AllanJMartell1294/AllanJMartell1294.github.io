@@ -71,11 +71,6 @@
 			</p>
   		</td>
  	</tr>
-				<p class=MsoNormal>
-				<span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-					family:Calibri;display:none;mso-hide:all'>
-				<o:p>&nbsp;</o:p>
-				</span>
-				</p>
  	<tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   		<td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
   			<p class=MsoNormal>
@@ -117,7 +112,6 @@
 				  notify it to the sender and delete immediately. You are hereby notified that
 				  any review, retransmission, dissemination or other use of this e-mail by
 				  persons or entities other than the intended recipient is prohibited.
-				<o:p></o:p>
 				</span></b>
 			</p>
   		</td>
