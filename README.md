@@ -37,7 +37,7 @@
   		<td style='padding:.75pt .75pt .75pt .75pt'>
   			<p class=MsoNormal>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
-				<a href="https://twitter.com/ExcelForm_GL"><span style='color:blue;text-decoration:none;text-underline:none'>
+				<a href="https://twitter.com/ExcelForm_GL">
 				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/njl9jmcujlbbrtx/image007.png?raw=1" alt=Logos v:shapes="_x0000_i1046">
 				</a>
 				</span>
@@ -55,7 +55,7 @@
   		<td style='padding:.75pt .75pt .75pt .75pt'>
   			<p class=MsoNormal>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
-				<a href="https://www.linkedin.com/company/excelform/"><span style='color:blue;text-decoration:none;text-underline:none'>
+				<a href="https://www.linkedin.com/company/excelform/">
 				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/cf3llc5h9pnm3mp/image011.png?raw=1" alt=Logos v:shapes="_x0000_i1048">
 				</a>
 				</span>
