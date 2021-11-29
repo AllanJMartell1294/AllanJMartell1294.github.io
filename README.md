@@ -5,10 +5,9 @@
 		<td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
    			<p class=MsoNormal>
 	   			<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
-				
-				<![if !vml]>
+			
 				<img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma v:shapes="_x0000_i1043">
-				<![endif]>
+				
 				<o:p></o:p>
 				</span>
 			</p>
