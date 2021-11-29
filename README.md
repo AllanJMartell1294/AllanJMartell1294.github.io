@@ -8,9 +8,11 @@
  	</tr>
  	<tr>
 		<td>
+				<p>
 				<a href="https://www.excelform.mx/">
 				<img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1" width=500 height=40 alt=Logos">
-				</a>
+				</a></p>
+																      
   		</td>
   		<td>
 				<a href="https://www.facebook.com/ExcelFormMX">
