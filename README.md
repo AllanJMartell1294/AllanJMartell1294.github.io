@@ -8,7 +8,7 @@
 			
 				<img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma v:shapes="_x0000_i1043">
 				
-				<o:p></o:p>
+				
 				</span>
 			</p>
   		</td>
