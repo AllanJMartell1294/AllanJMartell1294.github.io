@@ -1,4 +1,4 @@
-<table cellspacing=3 cellpadding=0 width=700>
+<table>
 	<tr>
 		<td colspan="6">
    			<p>
@@ -13,7 +13,7 @@
   			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.excelform.mx/">
-				<img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1" border=0 width=500 height=40 alt=Logos v:shapes="_x0000_i1044">
+				<img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1" border=0 width=500 height=40 alt=Logos">
 				</a>
 				</span>
 			</p>
@@ -22,7 +22,7 @@
   			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.facebook.com/ExcelFormMX">
-				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/mw0kjvg9516hhmh/image005.png?raw=1" alt=Logos v:shapes="_x0000_i1045">
+				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/mw0kjvg9516hhmh/image005.png?raw=1" alt=Logos">
 				</a>
 				</span>
 			</p>
@@ -31,7 +31,7 @@
   			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://twitter.com/ExcelForm_GL">
-				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/njl9jmcujlbbrtx/image007.png?raw=1" alt=Logos v:shapes="_x0000_i1046">
+				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/njl9jmcujlbbrtx/image007.png?raw=1" alt=Logos">
 				</a>
 				</span>
 			</p>
@@ -40,7 +40,7 @@
   			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.instagram.com/excelformmx/">
-				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/q4rw60wkzfxadf8/image009.png?raw=1" alt=Logos v:shapes="_x0000_i1047">
+				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/q4rw60wkzfxadf8/image009.png?raw=1" alt=Logos">
 				</a>
 				</span>
 			</p>
@@ -49,7 +49,7 @@
   			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.linkedin.com/company/excelform/">
-				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/cf3llc5h9pnm3mp/image011.png?raw=1" alt=Logos v:shapes="_x0000_i1048">
+				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/cf3llc5h9pnm3mp/image011.png?raw=1" alt=Logos">
 				</a>
 				</span>
 			</p>
@@ -58,7 +58,7 @@
   			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.youtube.com/channel/UCDW0yZ_W-Z7VBCEYZwaTsdg">
-				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/73ct38vy881l73f/image013.png?raw=1" alt=Logos v:shapes="_x0000_i1049">
+				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/73ct38vy881l73f/image013.png?raw=1" alt=Logos">
 				</a>
 				</span>
 			</p>
@@ -68,7 +68,7 @@
   		<td colspan="6">
   			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
-				<img border=0 width=700 height=30 src="https://www.dropbox.com/s/fqkjziuy0pzva5f/image015.jpg?raw=1" alt=Linea v:shapes="_x0000_i1050">
+				<img border=0 width=700 height=30 src="https://www.dropbox.com/s/fqkjziuy0pzva5f/image015.jpg?raw=1" alt=Linea">
 				</span>
 			</p>
   		</td>
@@ -77,7 +77,7 @@
   		<td colspan="6">
   			<p class=MsoNormal>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman";color:black'>
-				<img border=0 width=700 height=90 src="https://www.dropbox.com/s/72ak8o6khpsu4xl/image017.jpg?raw=1" alt=Linea v:shapes="_x0000_i1051">
+				<img border=0 width=700 height=90 src="https://www.dropbox.com/s/72ak8o6khpsu4xl/image017.jpg?raw=1" alt=Linea">
 				</span>
 			</p>
   		</td>
