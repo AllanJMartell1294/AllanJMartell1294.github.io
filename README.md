@@ -1,16 +1,16 @@
-<table class=MsoNormal cellspacing=3 cellpadding=0 width=700 style='border:none, width:525.0pt;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
-	<tr style='border:none,mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
-		<td colspan="6" style='border:none,padding:.75pt .75pt .75pt .75pt'>
-   			<p class=MsoNormal>
+<table cellspacing=3 cellpadding=0 width=700>
+	<tr>
+		<td colspan="6">
+   			<p>
 	   			<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
-				<img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma v:shapes="_x0000_i1043">
+				<img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma>
 				</span>
 			</p>
   		</td>
  	</tr>
- 	<tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
-		<td style='padding:.75pt .75pt .75pt .75pt'>
-  			<p class=MsoNormal>
+ 	<tr>
+		<td>
+  			<p>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.excelform.mx/">
 				<img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1" border=0 width=500 height=40 alt=Logos v:shapes="_x0000_i1044">
