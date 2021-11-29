@@ -5,31 +5,7 @@
 		<td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
    			<p class=MsoNormal>
 	   			<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
-				<!--[if gte vml 1]>
-				<v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
-   				<v:stroke joinstyle="miter"/>
-  				<v:formulas>
-    					<v:f eqn="if lineDrawn pixelLineWidth 0"/>
-				    	<v:f eqn="sum @0 1 0"/>
-				    	<v:f eqn="sum 0 0 @1"/>
-				    	<v:f eqn="prod @2 1 2"/>
-				    	<v:f eqn="prod @3 21600 pixelWidth"/>
-				    	<v:f eqn="prod @3 21600 pixelHeight"/>
-				    	<v:f eqn="sum @0 0 1"/>
-				    	<v:f eqn="prod @6 1 2"/>
-				    	<v:f eqn="prod @7 21600 pixelWidth"/>
-				    	<v:f eqn="sum @8 21600 0"/>
-				    	<v:f eqn="prod @7 21600 pixelHeight"/>
-				    	<v:f eqn="sum @10 21600 0"/>
-   				</v:formulas>
-   				<v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
-   					<o:lock v:ext="edit" aspectratio="t"/>
-  				</v:shapetype>
-				<v:shape id="_x0000_i1043" type="#_x0000_t75" alt="Firma" style='width:525pt;height:97.2pt'>
-   					<!--Aqu� se cargan las im�genes del nombre del propietario de la FIRMA-->
-   				<v:imagedata src="Firma_Erick_2022_archivos/image001.jpg" o:href="../../../../../../Firma/HTML/Firma.jpg"/>
-  				</v:shape>
-				<![endif]-->
+				
 				<![if !vml]>
 				<img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma v:shapes="_x0000_i1043">
 				<![endif]>
