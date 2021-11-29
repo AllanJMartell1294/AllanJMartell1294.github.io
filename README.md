@@ -1,6 +1,4 @@
-<style type="text/css">
-  table {border-collapse: collapse;}
-</style>
+<!DOCTYPE html>
 <table>
 	<tr>
 		<td colspan="6">
