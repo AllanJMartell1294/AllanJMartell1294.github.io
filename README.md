@@ -49,12 +49,7 @@
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.excelform.mx/">
 				<span style='color:blue;text-decoration:none;text-underline:none'>
-				<!--[if gte vml 1]>
-				<v:shape id="_x0000_i1044" type="#_x0000_t75" alt="Logos" href="https://www.excelform.mx/" style='width:375pt;height:30pt' o:button="t">
-					<!--Aqu� se carga la imagen para ingresar a EXCELFORM.COM-->
-  				<v href="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1">
-  				</v:shape>
-				<![endif]-->
+				
 				<![if !vml]>
 				<span style='mso-ignore:vglayout'>
 				<img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1" border=0 width=500 height=40 alt=Logos v:shapes="_x0000_i1044">
@@ -69,12 +64,7 @@
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.facebook.com/ExcelFormMX">
 				<span style='color:blue;text-decoration:none;text-underline:none'>
-				<!--[if gte vml 1]>
-				<v:shape id="_x0000_i1045" type="#_x0000_t75" alt="Logos" href="https://www.facebook.com/ExcelFormMX" style='width:26.4pt;height:30pt' 					o:button="t">
-					<!--Aqu� se carga la imagen para ingresar a FACEBOOK-->
-   				<v href="https://www.dropbox.com/s/mw0kjvg9516hhmh/image005.png?raw=1">
-  				</v:shape>
-				<![endif]-->
+				
 				<![if !vml]>
 				<span style='mso-ignore:vglayout'>
 				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/mw0kjvg9516hhmh/image005.png?raw=1" alt=Logos v:shapes="_x0000_i1045">
@@ -89,12 +79,7 @@
   			<p class=MsoNormal>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://twitter.com/ExcelForm_GL"><span style='color:blue;text-decoration:none;text-underline:none'>
-				<!--[if gte vml 1]>
-				<v:shape id="_x0000_i1046" type="#_x0000_t75" alt="Logos" href="https://twitter.com/ExcelForm_GL" style='width:26.4pt;height:30pt' 					o:button="t">
-						<!--Aqu� se carga la imagen para ingresar a TWITTER-->
-   				<v href="https://www.dropbox.com/s/njl9jmcujlbbrtx/image007.png?raw=1">
-  				</v:shape>
-				<![endif]-->
+				
 				<![if !vml]>
 				<span style='mso-ignore:vglayout'>
 				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/njl9jmcujlbbrtx/image007.png?raw=1" alt=Logos v:shapes="_x0000_i1046">
@@ -110,13 +95,7 @@
   			<p class=MsoNormal><span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.instagram.com/excelformmx/">
 				<span style='color:blue; text-decoration:none;text-underline:none'>
-				<!--[if gte vml 1]>
-				<v:shape id="_x0000_i1047" type="#_x0000_t75" alt="Logos" href="https://www.instagram.com/excelformmx/" style='width:26.4pt;height:30pt'
-   				o:button="t">
-						<!--Aqu� se carga la imagen para ingresar a INSTAGRAM-->
-   				<v href="https://www.dropbox.com/s/q4rw60wkzfxadf8/image009.png?raw=1">
-  				</v:shape>
-				<![endif]-->
+				
 				<![if !vml]>
 				<span style='mso-ignore:vglayout'>
 				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/q4rw60wkzfxadf8/image009.png?raw=1" alt=Logos v:shapes="_x0000_i1047">
@@ -130,11 +109,7 @@
   			<p class=MsoNormal>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.linkedin.com/company/excelform/"><span style='color:blue;text-decoration:none;text-underline:none'>
-				<!--[if gte vml 1]><v:shape id="_x0000_i1048" type="#_x0000_t75" alt="Logos" href="https://www.linkedin.com/company/excelform/" 					style='width:26.4pt;height:30pt' o:button="t">
-						<!--Aqu� se carga la imagen para ingresar a LINKEDIN-->
-   				<v href="https://www.dropbox.com/s/cf3llc5h9pnm3mp/image011.png?raw=1">
-  				</v:shape>
-				<![endif]-->
+				
 				<![if !vml]>
 				<span style='mso-ignore:vglayout'>
 				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/cf3llc5h9pnm3mp/image011.png?raw=1" alt=Logos v:shapes="_x0000_i1048">
@@ -149,13 +124,7 @@
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.youtube.com/channel/UCDW0yZ_W-Z7VBCEYZwaTsdg">
 				<span style='color:blue;text-decoration:none;text-underline:none'>
-				<!--[if gte vml 1]>
-				<v:shape id="_x0000_i1049" type="#_x0000_t75" alt="Logos" href="https://www.youtube.com/channel/UCDW0yZ_W-Z7VBCEYZwaTsdg" style='width:26.4pt;
-   				height:30pt' o:button="t">
-						<!--Aqu� se carga la imagen para ingresar a YOUTUBE-->
-   				<v href="https://www.dropbox.com/s/73ct38vy881l73f/image013.png?raw=1">
-  				</v:shape>
-				<![endif]-->
+				
 				<![if !vml]>
 				<span style='mso-ignore:vglayout'>
 				<img border=0 width=35 height=40 src="https://www.dropbox.com/s/73ct38vy881l73f/image013.png?raw=1" alt=Logos v:shapes="_x0000_i1049">
@@ -175,10 +144,7 @@
   		<td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
   			<p class=MsoNormal>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
-				<!--[if gte vml 1]>
-				<v:shape id="_x0000_i1050" type="#_x0000_t75" alt="Linea" style='width:525pt; height:22.2pt'>
-				<v href="https://www.dropbox.com/s/fqkjziuy0pzva5f/image015.jpg?raw=1">
-  				</v:shape><![endif]-->
+				
 				<![if !vml]>
 				<img border=0 width=700 height=30 src="https://www.dropbox.com/s/fqkjziuy0pzva5f/image015.jpg?raw=1" alt=Linea v:shapes="_x0000_i1050">
 				<![endif]><o:p></o:p></span>
