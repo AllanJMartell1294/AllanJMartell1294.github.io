@@ -1,4 +1,3 @@
-#AllanJMartell1294.github.io
 
 <table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width=700 style='width:525.0pt;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184'>
 	<tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
@@ -74,10 +73,6 @@
 				</span>
 			</p>
   		</td>
- 	</tr>
- 	<tr style='mso-yfti-irow:1'>
-  		<td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
-		</td>
  	</tr>
  	<tr style='mso-yfti-irow:2'>
   		<td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
