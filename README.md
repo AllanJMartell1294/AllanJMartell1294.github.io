@@ -5,10 +5,7 @@
 		<td colspan="6" style='padding:.75pt .75pt .75pt .75pt'>
    			<p class=MsoNormal>
 	   			<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
-			
 				<img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma v:shapes="_x0000_i1043">
-				
-				
 				</span>
 			</p>
   		</td>
@@ -23,13 +20,9 @@
   			<p class=MsoNormal>
 				<span style='font-size:13.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";color:black'>
 				<a href="https://www.excelform.mx/">
-				<span style='color:blue;text-decoration:none;text-underline:none'>
-				
-				<![if !vml]>
 				<span style='mso-ignore:vglayout'>
 				<img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1" border=0 width=500 height=40 alt=Logos v:shapes="_x0000_i1044">
 				</span>
-				<![endif]></span>
 				</a><o:p></o:p>
 				</span>
 			</p>
