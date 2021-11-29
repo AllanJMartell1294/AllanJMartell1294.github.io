@@ -1,4 +1,9 @@
-<table border-collapse:collapse>
+<style>
+.site-main table.no-border td {
+    border: none;
+}
+</style>
+<table class="no-border">
 	<tr>
 		<td colspan="6">
 				<img width=700 height=130 src="Firma_Erick_2022_archivos/image002.jpg" alt=Firma>
