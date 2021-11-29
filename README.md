@@ -10,12 +10,10 @@
 				<img src="https://www.dropbox.com/s/aign9n93dnkfapg/image003.jpg?raw=1" width=500 height=40 alt=Logos>
 				</a>													      
   		</td>
-  		<td>
-			<p>												      
+  		<td>											      
 				<a href="https://www.facebook.com/ExcelFormMX">
 				<img width=35 height=40 src="https://www.dropbox.com/s/mw0kjvg9516hhmh/image005.png?raw=1" alt=Logos>
 				</a>
-			</p>
   		</td>
   		<td>
 				<a href="https://twitter.com/ExcelForm_GL">
