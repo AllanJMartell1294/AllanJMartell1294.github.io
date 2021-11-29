@@ -198,7 +198,7 @@
 					<v href="https://www.dropbox.com/s/72ak8o6khpsu4xl/image017.jpg?raw=1">
 				</v:shape>
 				<![endif]-->
-				<![if !vml]>
+				<![if vml]>
 				<img border=0 width=700 height=90 src="https://www.dropbox.com/s/72ak8o6khpsu4xl/image017.jpg?raw=1" alt=Linea v:shapes="_x0000_i1051">
 				<![endif]><o:p></o:p>
 				</span>
